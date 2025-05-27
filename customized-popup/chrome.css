@@ -18,12 +18,7 @@
       ) !important;
     }
   }
-
-  /* Scrollbox styling */
-  arrowscrollbox {
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2) !important;
-  }
-
+  
   /* Styling for customized popups */
   :root:has(#theme-Customized-Popup:not([uc-customized_popup-background="none"])) {
     panel > * {
