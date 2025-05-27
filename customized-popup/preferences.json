@@ -14,5 +14,12 @@
         "value": "solid"
       }
     ]
+  },
+  {
+    "property": "uc.customized_popup.style-scrollbox",
+    "label": "Style Scroll Box?",
+    "type": "checkbox",
+    "defaultValue": "gradient",
+    "disabledOn": []
   }
 ]
